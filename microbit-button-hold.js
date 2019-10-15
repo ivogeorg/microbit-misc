@@ -1,3 +1,7 @@
+// File: microbutton-hold-event
+// Auth: ivogeorg@gmai.com
+// Date: 2019-10-15
+
 function buttonAHoldHandler(): void {
     basic.showString("Button A was held for 2 sec");
 }
